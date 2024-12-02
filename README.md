@@ -1,3 +1,3 @@
-# projects
+# Add / Delete Tasks (Taskati)
 
-A new Flutter project.
+Taskati project allows users to Add, Edit, Delete Tasks. Built using Flutter and Hive
